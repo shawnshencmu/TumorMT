@@ -1,0 +1,3 @@
+nohup: ignoring input
+[2020-05-08 13:06:59][7] Processing: App\Jobs\SendEmail
+[2020-05-08 13:07:00][7] Processed:  App\Jobs\SendEmail

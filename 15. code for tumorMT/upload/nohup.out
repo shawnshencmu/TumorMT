@@ -1,0 +1,96 @@
+Loading required package: mgcv
+Loading required package: nlme
+This is mgcv 1.8-31. For overview type 'help("mgcv-package")'.
+Loading required package: genefilter
+Loading required package: BiocParallel
+
+Attaching package: ‘patchwork’
+
+The following object is masked from ‘package:genefilter’:
+
+    area
+
+Loading required package: mgcv
+Loading required package: nlme
+This is mgcv 1.8-31. For overview type 'help("mgcv-package")'.
+Loading required package: genefilter
+Loading required package: BiocParallel
+
+Attaching package: ‘patchwork’
+
+The following object is masked from ‘package:genefilter’:
+
+    area
+
+Found2batches
+Adjusting for0covariate(s) or covariate level(s)
+Standardizing Data across genes
+Fitting L/S model and finding priors
+Finding parametric adjustments
+Adjusting the Data
+
+Error in extc[geneset[i, ], ] : subscript out of bounds
+Execution halted
+Warning message:
+system call failed: Cannot allocate memory 
+Found2batches
+Adjusting for0covariate(s) or covariate level(s)
+Standardizing Data across genes
+Fitting L/S model and finding priors
+Finding parametric adjustments
+Adjusting the Data
+
+Error in extc[geneset[i, ], ] : subscript out of bounds
+Execution halted
+Warning message:
+system call failed: Cannot allocate memory 
+Loading required package: mgcv
+Loading required package: nlme
+This is mgcv 1.8-31. For overview type 'help("mgcv-package")'.
+Loading required package: genefilter
+Loading required package: BiocParallel
+
+Attaching package: ‘patchwork’
+
+The following object is masked from ‘package:genefilter’:
+
+    area
+
+Found2batches
+Adjusting for0covariate(s) or covariate level(s)
+Standardizing Data across genes
+Fitting L/S model and finding priors
+Finding parametric adjustments
+Adjusting the Data
+
+Error in extc[geneset[i, ], ] : subscript out of bounds
+Execution halted
+Warning message:
+system call failed: Cannot allocate memory 
+Loading required package: mgcv
+Loading required package: nlme
+This is mgcv 1.8-31. For overview type 'help("mgcv-package")'.
+Loading required package: genefilter
+Loading required package: BiocParallel
+
+Attaching package: ‘patchwork’
+
+The following object is masked from ‘package:genefilter’:
+
+    area
+
+Found2batches
+Adjusting for0covariate(s) or covariate level(s)
+Standardizing Data across genes
+Fitting L/S model and finding priors
+Finding parametric adjustments
+Adjusting the Data
+
+Warning message:
+In rm(combat, expr, m, n, o, pcabefore, pcsbefore, pcaafter, pcsafter,  :
+  object 'a' not found
+null device 
+          1 
+Warning message:
+In .Internal(quit(save, status, runLast)) :
+  system call failed: Cannot allocate memory

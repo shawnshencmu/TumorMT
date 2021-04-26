@@ -1,0 +1,21 @@
+Package: estimate
+Version: 1.0.13
+Date: 2016-09-26
+Title: Estimate of Stromal and Immune Cells in Malignant Tumor Tissues
+        from Expression Data
+Author: Kosuke Yoshihara, Hoon Kim, Roel GW Verhaak
+Maintainer: Kosuke Yoshihara <kyoshihara@mdanderson.org>
+Description: Predicts tumor purity, and the presence of stromal/immune cells in tumor tissues using gene expression data.
+Depends: R (>= 2.15.1)
+Imports: utils, grDevices, graphics
+License: GPL-2
+LazyData: yes
+NeedsCompilation: no
+URL: https://r-forge.r-project.org/projects/estimate/
+Repository: R-Forge
+Repository/R-Forge/Project: estimate
+Repository/R-Forge/Revision: 21
+Repository/R-Forge/DateTimeStamp: 2016-10-04 21:13:08
+Date/Publication: 2016-10-04 21:13:08
+Packaged: 2016-10-04 21:25:32 UTC; rforge
+Built: R 3.3.1; ; 2016-10-05 12:24:15 UTC; windows

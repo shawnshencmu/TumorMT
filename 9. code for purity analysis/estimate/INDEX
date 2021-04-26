@@ -1,0 +1,9 @@
+PurityDataAffy          Affymetrix data
+SI_geneset              two signatures for estimate
+common_genes            10,412 common genes
+estimate-package        ESTIMATE
+estimateScore           Calculation of stromal, immune, and ESTIMATE
+                        scores
+filterCommonGenes       Intersect input data with 10,412 common genes
+outputGCT               Write gene expression data in GCT format
+plotPurity              Plot tumor purity
